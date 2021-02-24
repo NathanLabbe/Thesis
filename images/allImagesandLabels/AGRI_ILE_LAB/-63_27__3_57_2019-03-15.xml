@@ -1,0 +1,26 @@
+<annotation>
+	<folder>illegal</folder>
+	<filename>-63_27__3_57_2019-03-15.jpg</filename>
+	<path>C:\Users\natha\Documents\Keep\Cours\KTH\Master Thesis\images\AGRICULTURE\illegal\-63_27__3_57_2019-03-15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>illegal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>300</ymin>
+			<xmax>313</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
