@@ -1,7 +1,7 @@
 <annotation>
 	<folder>legal</folder>
 	<filename>-63_44__-9_88_2018-07-25.jpg</filename>
-	<path>C:\Users\natha\Documents\Keep\Cours\KTH\Master Thesis\images\AGRICULTURE\legal\-63_44__-9_88_2018-07-25.jpg</path>
+	<path>C:\Users\natha\Documents\Keep\Cours\KTH\Master Thesis\personalRepo\Thesis\images\allImagesandLabels\AGRICULTURE\legal\-63_44__-9_88_2018-07-25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>125</xmin>
-			<ymin>334</ymin>
-			<xmax>538</xmax>
-			<ymax>506</ymax>
+			<xmin>117</xmin>
+			<ymin>342</ymin>
+			<xmax>438</xmax>
+			<ymax>504</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>375</xmin>
-			<ymin>855</ymin>
-			<xmax>388</xmax>
-			<ymax>883</ymax>
+			<xmin>498</xmin>
+			<ymin>476</ymin>
+			<xmax>535</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>legal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>910</ymin>
+			<xmax>527</xmax>
+			<ymax>928</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>legal</folder>
 	<filename>-63_44__-9_92_2018-07-25.jpg</filename>
-	<path>C:\Users\natha\Documents\Keep\Cours\KTH\Master Thesis\images\AGRICULTURE\legal\-63_44__-9_92_2018-07-25.jpg</path>
+	<path>C:\Users\natha\Documents\Keep\Cours\KTH\Master Thesis\personalRepo\Thesis\images\allImagesandLabels\AGRICULTURE\legal\-63_44__-9_92_2018-07-25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>143</xmin>
-			<ymin>204</ymin>
-			<xmax>231</xmax>
-			<ymax>244</ymax>
+			<xmin>133</xmin>
+			<ymin>200</ymin>
+			<xmax>226</xmax>
+			<ymax>243</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>179</xmin>
-			<ymin>460</ymin>
-			<xmax>257</xmax>
-			<ymax>536</ymax>
+			<xmin>175</xmin>
+			<ymin>463</ymin>
+			<xmax>252</xmax>
+			<ymax>528</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>542</xmin>
-			<ymin>207</ymin>
-			<xmax>800</xmax>
-			<ymax>323</ymax>
+			<xmin>574</xmin>
+			<ymin>276</ymin>
+			<xmax>655</xmax>
+			<ymax>308</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>931</xmin>
+			<xmin>692</xmin>
+			<ymin>210</ymin>
+			<xmax>791</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>legal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>796</ymin>
+			<xmax>968</xmax>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>legal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>936</xmin>
 			<ymin>537</ymin>
-			<xmax>964</xmax>
-			<ymax>591</ymax>
+			<xmax>994</xmax>
+			<ymax>589</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +89,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>951</xmin>
-			<ymin>351</ymin>
+			<xmin>945</xmin>
+			<ymin>360</ymin>
 			<xmax>1000</xmax>
-			<ymax>426</ymax>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 </annotation>
