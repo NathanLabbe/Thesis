@@ -1,0 +1,38 @@
+<annotation>
+	<folder>legal</folder>
+	<filename>-63.44,-9.88_2020-08-23.jpg</filename>
+	<path>C:\Users\natha\Documents\Keep\Cours\KTH\Master Thesis\TestDataset\AGRICULTURE\legal\-63.44,-9.88_2020-08-23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>illegal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>343</ymin>
+			<xmax>424</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>illegal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>480</ymin>
+			<xmax>540</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>
