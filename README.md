@@ -28,4 +28,6 @@ the importance of using the right image spectral bands which greatly increases t
 accuracy of the models.
 
 ## Conclusion 
-The paper propose a combination of a Multiclass Object Detection model in order to search for illegal mines, and then a Binary Semantic Segmentation model if any illegal mines have been found.
+The work show better results on using false colour images, since select specific spectral bands can highlight the object we want to detect as shown in the following pictures
+![True vs False](https://github.com/NathanLabbe/Thesis/blob/main/False%20Colour%20vs%20True%20Colour.png?raw=true)
+The paper propose a combination of a Multiclass Object Detection model in order to search for illegal mines, and then a Binary Semantic Segmentation model if any illegal mines have been found. The architecture can be found 
